@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jean Carlos Quesada Cascante</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on [AMIDA](https://amida.estudio-tori.com/)
-
 - 💬 Ask me about **React, NodeJS, .Net and SQL**
 
-- 📫 How to reach me **jquesada@estudio-tori.com**
+- 📫 How to reach me **quesadajean@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
